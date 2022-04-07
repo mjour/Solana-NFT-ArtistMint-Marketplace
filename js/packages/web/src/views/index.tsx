@@ -1,0 +1,17 @@
+export { HomeView } from './home';
+export { ArtView } from './art';
+export { ArtsView } from './arts';
+export { ArtCreateView } from './artCreate';
+export { ArtistView } from './artist';
+export { ArtistsView } from './artists';
+export { AuctionView } from './auction';
+export { AuctionCreateView } from './auctionCreate';
+export { OfferCreateView } from './offerCreate';
+export { ArtworksView } from './artworks';
+export { AnalyticsView } from './analytics';
+export { MarketView } from './market';
+export { MarketAllView } from './marketAll';
+export { PhotoView } from './photo';
+export { SignInView } from './signin';
+export { CreateView } from './create';
+export { AuctionMarketView } from './auctionMarketView';
